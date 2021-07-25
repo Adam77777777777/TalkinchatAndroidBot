@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TalkinchatBot</string>
+    <string name="bot_id">Bot Id</string>
+    <string name="bot_pwd">Bot Password</string>
+    <string name="login">Login</string>
+    <string name="room_name">Room Name</string>
+    <string name="bot_master_id">Bot Master ID</string>
+    <string name="https_dbh4ck_blogspot_com">https://dbh4ck.blogspot.com</string>
+    <string name="dbh4ck">dbh4ck</string>
+</resources>
